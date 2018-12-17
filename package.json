@@ -1,0 +1,17 @@
+{
+	"name": "loc8r-backend",
+	"version": "0.0.1",
+	"private": true,
+	"description": "Backend for Loc8r, an application that informs users about nearby listings and invite them to leave reviews",
+	"main": "server.js",
+	"scripts": {
+		"dev": "nodemon server.js",
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/brehar/loc8r-backend.git"
+	},
+	"author": "Brett Hartman <brehardev@gmail.com> (http://bretthartman.me)",
+	"license": "MIT"
+}

@@ -2,7 +2,7 @@
 	"name": "loc8r-backend",
 	"version": "0.0.1",
 	"private": true,
-	"description": "Backend for Loc8r, an application that informs users about nearby listings and invite them to leave reviews",
+	"description": "Backend for Loc8r, an application that informs users about nearby listings and invites them to leave reviews",
 	"main": "server.js",
 	"scripts": {
 		"dev": "nodemon server.js",
